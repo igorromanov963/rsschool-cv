@@ -10,3 +10,7 @@
 
 * **Profile**
 I'm Something of a Scientist Myself
+
+* **Languages**: Russian, English
+    + English
+    + Russian
