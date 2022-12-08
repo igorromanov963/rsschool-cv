@@ -7,3 +7,6 @@
 
 * **Education**
     + BNTU — Faculty of Information Technology and Robotics
+
+* **Profile**
+I'm Something of a Scientist Myself
